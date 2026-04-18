@@ -44,6 +44,7 @@ It uses real-world datasets of books, users, and ratings to generate meaningful 
 
 ## 🗂️ Project Structure
 
+```
 BOOK-RECOMMENDER-SYSTEM/
 │
 ├── data/
@@ -64,6 +65,8 @@ BOOK-RECOMMENDER-SYSTEM/
 ├── requirements.txt
 ├── readme.md
 └── .gitignore
+
+```
 
 ---
 
