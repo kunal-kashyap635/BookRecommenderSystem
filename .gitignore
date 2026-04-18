@@ -1,0 +1,63 @@
+# 🔹 Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+*.py,cover
+*.so
+
+# 🔹 Virtual Environment
+
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# 🔹 Jupyter Notebook
+
+.ipynb_checkpoints
+
+# 🔹 VS Code
+
+.vscode/
+
+# 🔹 PyCharm
+
+.idea/
+
+# 🔹 Mac / Windows system files
+
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+
+*.log
+
+# 🔹 Environment variables
+
+.env
+
+# 🔹 Streamlit cache
+
+.streamlit/
+
+# 🔹 Data files (optional - remove if dataset is small)
+
+data/*.csv
+data/*.xlsx
+
+# 🔹 Temporary files
+
+*.tmp
+*.temp
+
+# 🔹 Build / dist
+
+build/
+dist/
+.eggs/
+*.egg-info/
