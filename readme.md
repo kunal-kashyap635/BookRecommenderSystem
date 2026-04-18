@@ -122,7 +122,7 @@ BOOK-RECOMMENDER-SYSTEM/
 
 ### Step 1: Clone Repository
 Open terminal and run:
-git clone [(https://github.com/kunal-kashyap635/BookRecommenderSystem)]
+git clone [https://github.com/kunal-kashyap635/BookRecommenderSystem.git]
 
 ### Step 2: Go Inside Project Folder
 cd book-recommender-system
